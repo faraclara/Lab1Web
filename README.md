@@ -11,6 +11,7 @@ Instruksi Praktikum
 3. Buat struktur dasar dari dokumen HTML.
 4. Ikuti langkah-langkah praktikum yang akan dijelaskan berikutnya.
 5. Lakukan validasi dokumen html dengan mengakses http://validator.w3.org
+
 Langkah-langkah Praktikum
 Persiapan membuka VSCode dan Browser.
 
