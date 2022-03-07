@@ -31,6 +31,8 @@ Kemudian selanjutnya, buka file tersebut pada web browser misalnya Mozilla Firef
 
 1. Membuat Paragraf
 Selanjutnya buatlah beberapa paragraf sederhana sebagai berikut
+![](images/1membuat%20paragraph.png)
+Selanjutnya simpan kembali perubahannya, dan lakukan refresh pada web browser, lihat hasilnya
 ![](images/4.jpg)
 **Gambar Tampilan Paragraf pada Browser**
 
