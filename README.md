@@ -1,7 +1,7 @@
 # Lab1Web1
 ##Nama : Fara Deviana
 ##NIM : 312010407
-##Kelas : TI.A.2
+######Kelas : TI.A.2
 
 TugasPertamaWebProgramming
 
