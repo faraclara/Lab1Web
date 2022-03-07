@@ -84,15 +84,15 @@ Tag **br** dituliskan pada kerangka html untuk memberikan perintah "break line",
 untuk membuka link di frame link itu berada. ini merupakan setelan dasar link jika pada elemen link tidak diberi atribut target 
 
 
-b. 
+ b. 
  **a href="link" target="_blank">penamaan link/a** 
 untuk membuka link di tab baru 
 
-c. 
+ c. 
  **a href="link" target="_parent">penamaan link/a** 
 untuk membuka link di frame yang satu tingkat di atas frame link tersebut berada. secara simple-nya begini : jika di website(1) di dalamnya ada website(2) lalu di website(2) ini ada link dan kita klik, maka link akan terbuka di website(1) 
 
-d.. 
+ d.. 
  **a href="link" target="_top">penamaan link/a** 
 untuk membuka link di frame paling atas (paling luar). secara simpel-nya : jika di website(1) di dalamnya ada website(2) lalu di website(2) di dalamnya ada website (3) lalu di website (3) ini ada link dan kita klik, maka link akan terbuka di website(1)
 
