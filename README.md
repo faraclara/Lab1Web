@@ -29,3 +29,25 @@ Kemudian selanjutnya, buka file tersebut pada web browser misalnya Mozilla Firef
 Gambar Web Browser Chrome
 
 
+1. Membuat Paragraf
+Selanjutnya buatlah beberapa paragraf sederhana sebagai berikut
+![](images/4.jpg)
+Gambar Tampilan Paragraf pada Browser
+
+2. Menambahkan Judul
+![](images/5.jpg)
+Gambar Tampilan Heading 1 dan Heading 2
+
+3. Memformat teks
+Lakukan pemformatan teks yang ada pada paragraf yang sudah ada sebelumnya, mengacu kepada 
+penjelasan materi pemformatan teks, sehingga tampilannya seperti berikut.
+![](images/6.jpg)
+Gambar Pemformatan Teks
+Lakukan eksperimen lainnya dengan tag-tag pemformatan teks yang ada.
+
+4. Menyisipkan Gambar
+Untuk menyisipkan gmbar, siapkan gambar yang akan disisipkan pada halaman web, kemudian 
+simpan file gambar tersebut satu folder dengan file dokumen html. Atau bisa juga menyisipkan 
+gambar dari website external
+![](images/7.jpg)
+Gambar Menampilkan Gambar.
