@@ -1,4 +1,4 @@
-# Lab1Web1
+# Lab1Web
 ###### Nama : Fara Deviana
 ###### NIM : 312010407
 ###### Kelas : TI.A.2
@@ -58,7 +58,9 @@ gambar dari website external
 **Gambar Tampilan Hyperlink**
 
 
+
 ## JAWAB PERTANYAAN BERIKUT
+
 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah 
 error ketika terjadi kesalahan penulisan tag?
 2. Apa perbedaan dari tag **p** dengan tag **br**, berikan penjelasannya!
