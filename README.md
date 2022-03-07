@@ -16,3 +16,10 @@ Langkah-langkah Praktikum
 Persiapan membuka VSCode dan Browser.
 
 ![](images/1.jpg)
+Gambar Tampilan VSCode
+
+Kemudian buat file baru dengan nama lab1_tag_dasar.html dan tambahkan tag dasar dokumen HTML.
+
+![](images/2.jpg)
+
+Modul Praktikum Pemrograman Web
