@@ -1,9 +1,9 @@
 # Lab1Web1
-##Nama : Fara Deviana
-##NIM : 312010407
-######Kelas : TI.A.2
+###### Nama : Fara Deviana
+###### NIM : 312010407
+###### Kelas : TI.A.2
 
-TugasPertamaWebProgramming
+## TugasPertamaWebProgramming
 
 Instruksi Praktikum
 1. Persiapkan text editor misalnya VSCode.
@@ -20,7 +20,7 @@ Gambar Tampilan VSCode
 
 Kemudian buat file baru dengan nama lab1_tag_dasar.html dan tambahkan tag dasar dokumen HTML.
 
-##**Modul Praktikum Pemrograman Web
+**Modul Praktikum Pemrograman Web**
 ![](images/2.jpg)
 
 
