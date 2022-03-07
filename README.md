@@ -110,7 +110,7 @@ proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan pe
 _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
 
 ###### JAWAB!
-1. Pada saat saya menggunakan kode tidak terdapat error jika saya menggunakan kode dengan benar, jika terjadi typo ataupun kurangnya huruf atau tanda maka terjadi error pada kode yang dibuat.
+1. Pada saat menggunakan kode tidak terdapat error jika menggunakan kode dengan benar, jika terjadi typo ataupun kurangnya huruf atau tanda maka terjadi error pada kode yang dibuat.
    
 2. Tag  **p** Tag ini berfungsi untuk memberi perintah paragraf baru pada halaman html, biasa digunakan untuk membuat sebuah paragraph pada HTML.
 Tag **br** dituliskan pada kerangka html untuk memberikan perintah "break line", artinya meng intruksikan baris baru.
