@@ -22,5 +22,10 @@ Kemudian buat file baru dengan nama lab1_tag_dasar.html dan tambahkan tag dasar 
 
 ## **Modul Praktikum Pemrograman Web**
 ![](images/2.jpg)
+Gambar Code HTML Dasar
+
+Kemudian selanjutnya, buka file tersebut pada web browser misalnya Mozilla Firefox.
+![](images/3.jpg)
+Gambar Web Browser Chrome
 
 
