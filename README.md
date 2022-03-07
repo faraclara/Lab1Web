@@ -38,7 +38,7 @@ Selanjutnya simpan kembali perubahannya, dan lakukan refresh pada web browser, l
 **Gambar Tampilan Paragraf pada Browser**
 
 Kemudian atur atribut paragraf seperti berikut, dan amati perubahanya.
-![](images/2menambah.atribut.png)
+![](images/2menambah%20atribut.png)
 
 Simpan kembali dan amati perubahannya dengan melakukan refresh pada web browser. 
 Selanjutnya silakan ubah-ubah nilai atributnya (align => justify, left, right, dan center) untuk melihat 
@@ -48,7 +48,7 @@ perbedaan lainnya.
 Seperti sudah dijelaskan pada materi bahwa judul memiliki 6 level yaitu mulai h1 sampai h6. 
 Kemudian tambahkan judul h1 sebelum paragraf pertama dan tambahkan sub judul h2 sebelum 
 paragraf kedua.
-![](images/3menambah.judul.png)
+![](images/3menambah%20judul.png)
 
 Simpan perubahannya dan lihat hasilnya dengan melakukan refresh pada browser
 ![](images/5.jpg)
@@ -67,12 +67,12 @@ Untuk menyisipkan gmbar, siapkan gambar yang akan disisipkan pada halaman web, k
 simpan file gambar tersebut satu folder dengan file dokumen html. Atau bisa juga menyisipkan 
 gambar dari website external
 
-![](images/4menambah.logo.png)
+![](images/4menambah%20logo.png)
 
 Kemudian tambahkan tag img setelah paragraf yang kedua, dengan menambahkan heading 3
 sebelumnya.
 
-![](images/5menambah.tagimg.png)
+![](images/5menambah%20tagimg.png)
 
 Simpan perubahannya, kemudian refresh browser.
 
@@ -82,11 +82,11 @@ Simpan perubahannya, kemudian refresh browser.
 Gambar akan ditampilkan apa adanya sesuai dengan ukuran aslinya. Untuk mengatur ukuran 
 gambar, dapat digunakan atribut witdh dan height dengan nilai integer yang disesuaikan.
 
-![](images/6menambah.size.png)
+![](images/6menambah%20size.png)
 
 5. Menambahkan Hyperlink
 Tambahkan hyperlink pada dokumen sebelum heading 1 seperti berikut.
-![](images/7menambah.linknavigasi.png)
+![](images/7menambah%20linknavigasi.png)
 
 ![](images/8.jpg)
 **Gambar Tampilan Hyperlink**
