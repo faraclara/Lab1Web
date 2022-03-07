@@ -59,6 +59,11 @@ gambar dari website external
 
 
 
+
+
+
+
+
 ## JAWAB PERTANYAAN BERIKUT
 
 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah 
