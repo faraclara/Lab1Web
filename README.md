@@ -20,6 +20,7 @@ Gambar Tampilan VSCode
 
 Kemudian buat file baru dengan nama lab1_tag_dasar.html dan tambahkan tag dasar dokumen HTML.
 
+Modul Praktikum Pemrograman Web
 ![](images/2.jpg)
 
-Modul Praktikum Pemrograman Web
+
